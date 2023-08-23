@@ -1,0 +1,30 @@
+body{
+    background-color: #96e0f1;
+    display: flex;
+    justify-content: center;
+}
+
+.main-container{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    min-height: 94vh;
+    width: 400px;
+    text-align: center;
+    font-family: 'Gill Sans';
+    }
+
+    .main-container .top{
+        background-color: #96e0f1;
+        padding: 32px;
+        color: #6868ef;
+
+    }
+    .main-container form{
+        font-size: q8px;
+    }
+
+    .main-container form input{
+        font-size: 15px;
+    }
+    
